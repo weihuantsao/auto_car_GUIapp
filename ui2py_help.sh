@@ -1,0 +1,1 @@
+pyuic4 -x dial.ui -o Ui_help_dial.py
